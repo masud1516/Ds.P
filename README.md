@@ -1,1 +1,1 @@
-This is my Data Science projects repositorie.
+This is my Data Science projects repository.
